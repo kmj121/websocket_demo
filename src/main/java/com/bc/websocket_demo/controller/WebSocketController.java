@@ -6,11 +6,6 @@ import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.stereotype.Controller;
 
-/**
- * @Description
- * @Author Roger
- * @Date 2020/12/15
- */
 @Controller
 public class WebSocketController {
 

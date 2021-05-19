@@ -8,8 +8,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
  * @Description
  * 配置viewController 提供页面的映射路径
  *
- * @Author Roger
- * @Date 2020/12/15
  */
 @Configuration
 public class WebMvcConfig implements WebMvcConfigurer {
